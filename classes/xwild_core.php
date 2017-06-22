@@ -60,7 +60,6 @@ class Xwild_core
             $links[] = "<a href='{$href}'>{$anchor}</a>";
             $links[] = 'Code is poetry!';
         }
-
         return $links;
     }
 
